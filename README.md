@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Ilker.
 #### I am Frontend Developer.
 
-<img src="https://media.giphy.com/media/gLcUG7QiR0jpMzoNUu/giphy.gif" width="300px" height="300px">
+<img src="[https://media.giphy.com/media/gLcUG7QiR0jpMzoNUu/giphy.gif](https://media.giphy.com/media/gLcUG7QiR0jpMzoNUu/giphy-downsized.gif)" width="300" height="300" align="center">
 
 After so many WordPress projects, I decided improve my web skills. For now I am learning MVC Frameworks. I am working for become Fullstack Developer step by step.
 
